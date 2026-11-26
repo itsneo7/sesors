@@ -1,9 +1,3 @@
-# Sensor Experimentation Repository
-
-A hardware-independent repository for learning, testing, characterising,
-calibrating, and documenting different electronic sensors and
-measurement modules.
-
 ## 1. Repository objectives
 
 The purpose of this repository is to build a practical, reusable
